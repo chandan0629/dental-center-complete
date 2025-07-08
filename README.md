@@ -30,6 +30,8 @@ A comprehensive React-based dental center management dashboard built for ENTNT T
 - **Modern UI/UX** - Clean, professional interface
 
 ## 🚀 Demo Accounts
+Deploy link:- https://dental-center-complete.vercel.app/login
+github link:- https://github.com/chandan0629/dental-center-complete
 
 ### Admin Account (Dentist)
 - **Email:** admin@entnt.in
