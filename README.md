@@ -40,7 +40,6 @@ github link:- https://github.com/chandan0629/dental-center-complete
 
 ### Patient Accounts
 - **Email:** john@entnt.in | **Password:** patient123
-- **Email:** jane@entnt.in | **Password:** patient123
 - **Access:** Personal dashboard and appointments only
 
 ## 🛠️ Technology Stack
