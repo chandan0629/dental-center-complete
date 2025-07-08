@@ -40,7 +40,6 @@ const Login: React.FC = () => {
   const demoAccounts = [
     { email: 'admin@entnt.in', password: 'admin123', role: 'Admin (Dentist)' },
     { email: 'john@entnt.in', password: 'patient123', role: 'Patient' },
-    { email: 'jane@entnt.in', password: 'patient123', role: 'Patient' }
   ];
 
   const fillDemoCredentials = (email: string, password: string) => {
