@@ -230,7 +230,7 @@ interface Incident {
 ## 🤝 Contributing
 
 This is a technical assignment project. For any questions or suggestions:
-- **Email:** hr@entnt.in
+- **Email:** chandantoaws@gmail.com
 - **Assignment:** ENTNT Technical Assignment - Frontend Developer (React)
 
 ## 📄 License
